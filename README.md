@@ -43,6 +43,7 @@ can u design a api
 why don't use grpc
 how can u make your api be idempotent
 u use hashTable in redis, what if 2 service udpate a key in once time
+how do u retry if email sending fail
 
 Soloution:
 
