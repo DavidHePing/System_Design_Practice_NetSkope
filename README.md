@@ -39,7 +39,9 @@ group by user
 question:
 would u just send to queue? without web service?
 how do u do scale out with worker
+can u design a api
 why don't use grpc
+how can u make your api be idempotent
 u use hashTable in redis, what if 2 service udpate a key in once time
 
 Soloution:
