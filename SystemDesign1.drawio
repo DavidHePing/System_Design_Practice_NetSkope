@@ -85,6 +85,25 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.427;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MlGHagx-8NNRDpDtTUfA-4" target="MlGHagx-8NNRDpDtTUfA-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="585" as="sourcePoint" />
+            <mxPoint x="520" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6ZbVerckbxmWRG965Xrm-6" target="MlGHagx-8NNRDpDtTUfA-35">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="650" y="350" as="sourcePoint" />
+            <mxPoint x="640" y="180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Structure&lt;/h1&gt;&lt;div&gt;Key: interval (00:30. 01:00. 01:30)&lt;div&gt;Value: HashTable&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; HashTable:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Key: user&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Value: List&amp;lt;message&amp;gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="540" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-35" value="Redis&lt;div&gt;Idompotent key&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="135" width="110" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
