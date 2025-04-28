@@ -65,6 +65,26 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-7" value="SMTP Server" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="415" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-8" value="Schedular query by interval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MlGHagx-8NNRDpDtTUfA-4" target="MlGHagx-8NNRDpDtTUfA-8">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="410" y="600" as="sourcePoint" />
+            <mxPoint x="510" y="600" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MlGHagx-8NNRDpDtTUfA-8" target="MlGHagx-8NNRDpDtTUfA-7">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="320" y="560" as="sourcePoint" />
+            <mxPoint x="420" y="560" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
