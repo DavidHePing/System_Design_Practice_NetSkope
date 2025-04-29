@@ -98,7 +98,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Structure&lt;/h1&gt;&lt;div&gt;interval userId email status&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;partition key: interval&lt;/div&gt;&lt;div&gt;cluster key: all column&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Structure&lt;/h1&gt;&lt;div&gt;interval userId email status&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;primary key: all column&lt;/div&gt;&lt;div&gt;partition key: interval&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="540" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MlGHagx-8NNRDpDtTUfA-35" value="Redis&lt;div&gt;Idompotent key&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
