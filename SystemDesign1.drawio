@@ -7,7 +7,7 @@
         <mxCell id="6ZbVerckbxmWRG965Xrm-1" value="Client" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="190" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6ZbVerckbxmWRG965Xrm-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6ZbVerckbxmWRG965Xrm-6" edge="1" target="MlGHagx-8NNRDpDtTUfA-1">
+        <mxCell id="6ZbVerckbxmWRG965Xrm-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6ZbVerckbxmWRG965Xrm-6" target="MlGHagx-8NNRDpDtTUfA-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="714" y="182.5" as="sourcePoint" />
             <mxPoint x="690" y="165" as="targetPoint" />
@@ -42,66 +42,66 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-1" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-1" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-2" value="Workers" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-2" value="Workers" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MlGHagx-8NNRDpDtTUfA-1" target="MlGHagx-8NNRDpDtTUfA-2">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MlGHagx-8NNRDpDtTUfA-1" target="MlGHagx-8NNRDpDtTUfA-2" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="260" y="440" as="sourcePoint" />
             <mxPoint x="360" y="440" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-4" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-4" value="Cassandra" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="478.75" y="410" width="82.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MlGHagx-8NNRDpDtTUfA-2" target="MlGHagx-8NNRDpDtTUfA-4">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MlGHagx-8NNRDpDtTUfA-2" target="MlGHagx-8NNRDpDtTUfA-4" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="660" y="430" as="sourcePoint" />
             <mxPoint x="760" y="430" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-7" value="SMTP Server" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-7" value="SMTP Server" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="415" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-8" value="Schedular query by interval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-8" value="Schedular query by interval" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="425" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MlGHagx-8NNRDpDtTUfA-4" target="MlGHagx-8NNRDpDtTUfA-8">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MlGHagx-8NNRDpDtTUfA-4" target="MlGHagx-8NNRDpDtTUfA-8" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="410" y="600" as="sourcePoint" />
             <mxPoint x="510" y="600" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MlGHagx-8NNRDpDtTUfA-8" target="MlGHagx-8NNRDpDtTUfA-7">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MlGHagx-8NNRDpDtTUfA-8" target="MlGHagx-8NNRDpDtTUfA-7" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="320" y="560" as="sourcePoint" />
             <mxPoint x="420" y="560" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.427;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MlGHagx-8NNRDpDtTUfA-4" target="MlGHagx-8NNRDpDtTUfA-34">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.427;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MlGHagx-8NNRDpDtTUfA-4" target="MlGHagx-8NNRDpDtTUfA-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="585" as="sourcePoint" />
             <mxPoint x="520" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6ZbVerckbxmWRG965Xrm-6" target="MlGHagx-8NNRDpDtTUfA-35">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6ZbVerckbxmWRG965Xrm-6" target="MlGHagx-8NNRDpDtTUfA-35" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="650" y="350" as="sourcePoint" />
             <mxPoint x="640" y="180" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Structure&lt;/h1&gt;&lt;div&gt;Key: interval (00:30. 01:00. 01:30)&lt;div&gt;Value: HashTable&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; HashTable:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Key: user&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Value: List&amp;lt;message&amp;gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="540" width="170" height="140" as="geometry" />
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Structure&lt;/h1&gt;&lt;div&gt;interval userId email status&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;partition key: interval&lt;/div&gt;&lt;div&gt;cluster key: all column&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="540" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MlGHagx-8NNRDpDtTUfA-35" value="Redis&lt;div&gt;Idompotent key&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="MlGHagx-8NNRDpDtTUfA-35" value="Redis&lt;div&gt;Idompotent key&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="660" y="135" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
